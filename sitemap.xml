@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/categories/</loc>
   </url><url>
-    <loc>/docs/product1/doc1/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/docs/product1/doc1/</loc>
   </url><url>
-    <loc>/docs/product1/doc2/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/docs/product1/doc2/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/tags/</loc>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/docs/</loc>
   </url><url>
-    <loc>/products/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/products/</loc>
   </url><url>
-    <loc>/docs/product2/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/docs/product2/</loc>
   </url><url>
-    <loc>/products/product2/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/products/product2/</loc>
   </url><url>
-    <loc>/docs/product1/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/docs/product1/</loc>
   </url><url>
-    <loc>/products/product1/</loc>
+    <loc>https://yjyoon5169.github.io/dev-pub/products/product1/</loc>
   </url>
 </urlset>
